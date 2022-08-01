@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Hillel\\": "./src"
+    }
+  },
+  "require": {
+    "illuminate/database": "v8.60.0",
+    "illuminate/events": "v8.60.0",
+    "vlucas/phpdotenv": "v5.4.1"
+  }
+}
